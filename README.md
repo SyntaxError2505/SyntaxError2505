@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SyntaxError2505&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!---
 SyntaxError2505/SyntaxError2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
