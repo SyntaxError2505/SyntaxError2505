@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @SyntaxError2505
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: don't reach me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyntaxError2505&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Hi, I am a 14 Year old dev interested in all things low level with C and C++. I am oblicated to tell you that I use Arch btw. and am active on X under the same name as my gh.  
+My favourite projects:
+- Tetris (WIP)
+- encoder decoder (very simple but from a time where I still was learning C++)
+- CPU emulator (really fun project)
+- Rayphys (Raylib is fun to work with and I love C limiting me)
 
 [![Top Langs](https://readme-test-three.vercel.app/api/top-langs/?username=SyntaxError2505&theme=gruvbox&card_width=500px&layout=compact&exclude_repo=readme-test)](https://github.com/SyntaxError2505)
 <!---
