@@ -5,7 +5,9 @@ My favourite projects:
 - CPU emulator (really fun project)
 - Rayphys (Raylib is fun to work with and I love C limiting me)
 
-[![Top Langs](https://readme-test-three.vercel.app/api/top-langs/?username=SyntaxError2505&theme=gruvbox&card_width=500px&layout=compact&exclude_repo=readme-test)](https://github.com/SyntaxError2505)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SyntaxError2505&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SyntaxError2505&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SyntaxError2505&layout=compact&theme=radical)
 <!---
 SyntaxError2505/SyntaxError2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
