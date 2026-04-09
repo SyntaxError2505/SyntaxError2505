@@ -1,4 +1,4 @@
-Hi, I am a 14 Year old dev interested in all things low level with C and C++. I am oblicated to tell you that I use Arch btw. and am active on X under the same name as my gh.  
+Hi, I am a 14 Year old dev interested in all things low level with C. I am oblicated to tell you that I use Void Linux btw. and am active on twitter under the same name as my gh.  
 My favourite projects:
 - Tetris (WIP)
 - encoder decoder (very simple but from a time where I still was learning C++)
