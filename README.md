@@ -4,6 +4,8 @@ My favourite projects:
 - encoder decoder (very simple but from a time where I still was learning C++)
 - CPU emulator (really fun project)
 - Rayphys (Raylib is fun to work with and I love C limiting me)
+- Graph (Single File C, I was inspired by obisians graph view)
+- curryvim (My neovim config/distro)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SyntaxError2505&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SyntaxError2505&theme=radical)
